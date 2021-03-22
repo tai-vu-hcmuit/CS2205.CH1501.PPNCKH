@@ -14,7 +14,7 @@
 
 - Vũ Công Tấn Tài - CH2002016 ([Github Repo](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH))
 - Nguyễn Công Thành - CH2001036 ([Github Repo](https://github.com/NCThanhNguyenPhoto/CS2205.CH1501))
-- Phạm Thái Duy - CHCH2001003 ([Github Repo](https://github.com/duypt15uit/CS2205.CH1501))
+- Phạm Thái Duy - CH2001003 ([Github Repo](https://github.com/duypt15uit/CS2205.CH1501))
 
 ## Hoạt động
 
