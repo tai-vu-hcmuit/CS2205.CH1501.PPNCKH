@@ -1,7 +1,7 @@
 # CS2205.CH1501
 
 > Môn học: [Phương pháp nghiên cứu khoa học](https://classroom.google.com/u/1/c/MjU1MDMxNDMzMDk5)  
-Giảng viên: PGS.TS Lê Đình Duy
+> Giảng viên: PGS.TS Lê Đình Duy
 
 ## Thông tin cá nhân
 
@@ -10,13 +10,11 @@ Giảng viên: PGS.TS Lê Đình Duy
 - Email: taivct.15@grad.uit.edu.vn
 - Facebook: https://www.facebook.com/tantai.vu/
 
-
 ## Nhóm
 
 - Vũ Công Tấn Tài - CH2002016 ([Github Repo](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH))
 - Nguyễn Công Thành - CH2001036 ([Github Repo](https://github.com/NCThanhNguyenPhoto/CS2205.CH1501))
-- Phạm Thái Duy - CH ([Github Repo](https://github.com/duypt15uit/CS2205.CH1501))
-
+- Phạm Thái Duy - CHCH2001003 ([Github Repo](https://github.com/duypt15uit/CS2205.CH1501))
 
 ## Hoạt động
 
@@ -27,7 +25,6 @@ Giảng viên: PGS.TS Lê Đình Duy
 - Hoàn thành QT01: [Tự giới thiệu](https://classroom.google.com/u/1/c/MjU1MDMxNDMzMDk5/m/Mjg3NzY4OTA3OTE1/details)
 - Hoàn thành QT02: Tạo [github repository](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH)
 - Hoàn thành QT03: Tạo [nhóm](https://classroom.google.com/u/1/c/MjU1MDMxNDMzMDk5/m/Mjg3NzY4OTA3OTU4/details)
-
 
 ### Tuần 2
 
