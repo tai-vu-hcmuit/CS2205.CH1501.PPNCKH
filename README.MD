@@ -16,7 +16,7 @@
 - Nguyễn Công Thành - CH2001036 ([Github Repo](https://github.com/NCThanhNguyenPhoto/CS2205.CH1501))
 - Phạm Thái Duy - CH2001003 ([Github Repo](https://github.com/duypt15uit/CS2205.CH1501))
 
-## Hoạt động
+## Hoạt động quá trình
 
 ### Tuần 1
 
@@ -29,3 +29,17 @@
 ### Tuần 2
 
 - Hoàn thành QT11: [Google search nâng cao](https://classroom.google.com/u/2/c/MjU1MDMxNDMzMDk5/m/Mjk4NTY3NTk0MjA4/details)
+
+### Các bài tập quá trình khác
+
+- Câu hỏi và trả lời cho [QT12](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT12.md)
+
+- Câu hỏi và trả lời cho [QT14](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT14_MindMap.jpg)
+
+- Câu hỏi và trả lời cho [QT16](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT16.md)
+
+- Câu hỏi và trả lời cho [QT18](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT18.md)
+
+- Câu hỏi và trả lời cho [QT20](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT20_critical_thinking.md)
+
+- Câu hỏi và trả lời cho [QT21](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT20_critical_thinking_obstacle.md)
