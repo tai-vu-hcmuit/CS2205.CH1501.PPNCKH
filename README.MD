@@ -40,7 +40,7 @@
 
 - Câu hỏi và trả lời cho [QT18](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT18.md)
 
-- Câu hỏi và trả lời cho [QT18](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT19.md)
+- Câu hỏi và trả lời cho [QT19](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT19.md)
 
 - Câu hỏi và trả lời cho [QT20](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT20_critical_thinking.md)
 
