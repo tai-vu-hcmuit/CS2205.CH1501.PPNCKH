@@ -17,3 +17,12 @@ Sinh viên bỏ học có thể gây nhiều tác động tiêu cực và lãng 
 Sinh viên bỏ học còn ảnh hưởng tiêu cực tới nơi mà họ theo học. Cụ thể hơn, việc thôi học của họ đã ảnh hưởng tới kế hoạch đào tạo và mục tiêu của nhà trường. Việc đó cũng tác động tới các kế hoạch & tâm lí của bạn bè của họ. Chính vì vậy, danh tiếng của nhà trường ít nhiều sẽ bị ảnh hưởng bởi vấn đề này.
 
 ### II. Mục tiêu của đề tài
+(TBD)
+
+### III. Nội dung và phương pháp
+(TBD)
+
+### IV. Kết quả dự kiến
+(TBD)
+
+
