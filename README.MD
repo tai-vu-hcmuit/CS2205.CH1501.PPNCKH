@@ -38,6 +38,8 @@
 
 - Câu hỏi và trả lời cho [QT16](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT16.md)
 
+- Câu hỏi và trả lời cho [QT17](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT17.md)
+
 - Câu hỏi và trả lời cho [QT18](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT18.md)
 
 - Câu hỏi và trả lời cho [QT19](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT19.md)
