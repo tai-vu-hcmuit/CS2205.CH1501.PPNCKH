@@ -12,17 +12,36 @@
 
 ### I. Phát biểu đề tài
 
-Sinh viên bỏ học có thể gây nhiều tác động tiêu cực và lãng phí cho chính bản thân họ. Đầu tiên, việc một sinh viên bỏ học gây lãng phí về mặt thời gian và công sức của họ đã bỏ ra cho suốt quá trình đã học tập. Hơn thế, việc một sinh viên bỏ học cũng là một sự lãng phí về mặt tiền bạc cho bản thân họ và gia đình. Một điều quan trọng hơn, việc bỏ học này có thể ảnh hưởng tới tâm lí và sự tự tin của họ sau này.
-
-Sinh viên bỏ học còn ảnh hưởng tiêu cực tới nơi mà họ theo học. Cụ thể hơn, việc thôi học của họ đã ảnh hưởng tới kế hoạch đào tạo và mục tiêu của nhà trường. Việc đó cũng tác động tới các kế hoạch & tâm lí của bạn bè của họ. Chính vì vậy, danh tiếng của nhà trường ít nhiều sẽ bị ảnh hưởng bởi vấn đề này.
+Sinh viên bỏ học gây nhiều tác động tiêu cực và lãng phí cho chính bản thân họ và nhà trường. Đầu tiên, việc các sinh viên bỏ học là một sự lãng phí rất lớn về mặt công sức trong quãng thời gian họ đã học tập. Một sinh viên bỏ học cũng gây lãng phí về khía cạnh tài chính cho cả bản thân họ và gia đình. Đối với nhà trường, sự thay đổi trong số lượng sinh viên sẽ ảnh hưởng tới việc lên kế hoạch đào tạo và thiết lập mục tiêu trong dài hạn cho nhà trường. Vì vậy, việc giảm số lượng sinh viên bỏ học là một việc làm cần thiết, nghiên cứu này sẽ thử nghiệm triển khai một giải pháp theo hướng tư vấn cách học tập ở bậc đại học cho sinh viên, nhằm cải thiện việc bỏ học giữa chừng vì lí do không thích ứng được môi trường học tập mới.
 
 ### II. Mục tiêu của đề tài
-(TBD)
+
+Để giải quyết việc sinh viên nghỉ học, chúng tôi đề xuất mở thêm các các lớp học ngắn hạn và các buổi tư vấn miễn phí cho sinh viên về chủ đề: Cách học tập hiệu quả ở bậc đại học. Thông qua cách tiếp cận này, chúng tôi muốn hướng tới việc trả lời các câu hỏi sau đây:
+
+- Các bạn sinh viên đã thực sự nhận ra sự khác biệt giữa việc học ở bậc đại học và bậc THPT hay không?
+
+- Không nắm được phương pháp học đúng đắn ở bậc đại học có phải là nguyên nhân khiến các bạn chán nản, dẫn tới việc bỏ học giữa chừng hay không?
+
+- Việc nắm bắt được cách học mới có giúp các bạn tăng thêm niềm yêu thích với ngành / nghề các bạn đã chọn hay không?
+
+Thông qua việc giúp đỡ các bạn nắm bắt được cách học mới, và tìm câu trả lời các câu hỏi này, nghiên cứu sẽ góp phần cải thiện sự hứng thú của sinh viên đối với ngành nghề của mình, cũng như giúp cho bộ phận đào tạo của trường có được các dữ liệu cần thiết trong việc đưa ra các cải tiến sau này.
 
 ### III. Nội dung và phương pháp
-(TBD)
+
+Để giúp sinh viên nắm bắt được cách học mới, và thu thập ý kiến của sinh viên, chúng tôi dự định sẽ thực hiện một số các hoạt động sau đây:
+
+- Mở một số lớp tư vấn cách học tập cho sinh viên vào đầu mỗi kì học mới tương ứng với số lượng sinh viên.
+
+- Tạo & thu thập các bản khảo sát liên quan tới vấn đề trong học tập mà các bạn sinh viên hay gặp phải, ở các thời điểm bắt đầu lớp học và kết thúc lớp học.
+
+- Tổng hợp và phân tích thông tin thu được
 
 ### IV. Kết quả dự kiến
-(TBD)
 
+Kết quả dự kiến bao gồm:
 
+- Danh sách các vấn đề khó khăn thường gặp của sinh viên
+
+- Bản thống kê số lượng sinh viên chưa biết cách học tập mới trên tổng số sinh viên.
+
+- Bản đề xuất hành động dựa trên kết quả khảo sinh viên
