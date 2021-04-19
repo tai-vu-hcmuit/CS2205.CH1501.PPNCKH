@@ -47,3 +47,9 @@
 - Câu hỏi và trả lời cho [QT20](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT20_critical_thinking.md)
 
 - Câu hỏi và trả lời cho [QT21](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT20_critical_thinking_obstacle.md)
+
+### Luyện tập viết đề cương
+
+- [Bài luyện tập](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/Proposal/SinhVienBoHoc.md) được làm theo yêu cầu [sau đây](https://classroom.google.com/u/2/c/MjU1MDMxNDMzMDk5/m/MzEwODQyNjQ5MjQx/details).
+
+  - Đề tài: Nghiên cứu hiện trạng sinh viên bỏ học ở Đại học X và đề xuất hướng cải thiện.
