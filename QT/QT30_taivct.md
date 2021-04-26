@@ -2,6 +2,10 @@
 
 Area: Computer Vision
 
+Ref:
+
+- Reasearch areas of [University of Minnesota](https://cse.umn.edu/cs/research-areas)
+
 ## 2. Hội nghĩ & Tạp chí quan trọng
 
 - IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR)
@@ -25,6 +29,10 @@ Ref:
 - Image Generation
 - Pose Estimation
 - ...
+
+Ref:
+
+- [University of Central Florida](https://www.crcv.ucf.edu/research/projects/)
 
 
 ## 4.  Các bài toán nghiên cứu là gì?
