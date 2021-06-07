@@ -48,6 +48,8 @@
 
 - Câu hỏi và trả lời cho [QT21](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT20_critical_thinking_obstacle.md)
 
+- QT33 Viết đề cương theo mẫu: [Câu hỏi](https://classroom.google.com/u/3/c/MjU1MDMxNDMzMDk5/m/MzUyNzA4NjY3MjUw/details) & [Bài làm](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/QT/QT33_De_cuong/Proposal-3D%20reconstruction-v1.pdf)
+
 ### Luyện tập viết đề cương
 
 - [Bài luyện tập](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/Proposal/SinhVienBoHoc.md) được làm theo yêu cầu [sau đây](https://classroom.google.com/u/2/c/MjU1MDMxNDMzMDk5/m/MzEwODQyNjQ5MjQx/details).
