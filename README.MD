@@ -55,3 +55,7 @@
 - [Bài luyện tập](https://github.com/tai-vu-hcmuit/CS2205.CH1501.PPNCKH/blob/master/Proposal/SinhVienBoHoc.md) được làm theo yêu cầu [sau đây](https://classroom.google.com/u/2/c/MjU1MDMxNDMzMDk5/m/MzEwODQyNjQ5MjQx/details).
 
   - Đề tài: Nghiên cứu hiện trạng sinh viên bỏ học ở Đại học X và đề xuất hướng cải thiện.
+
+### Final report
+
+- Vũ Công Tấn Tài - CH2002016: [Final report](https://docs.google.com/document/d/1_TfBg490qYswuUI7N2CoSVif513Vdelou2fJYtmaRvU/edit?usp=sharing)
